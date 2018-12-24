@@ -206,7 +206,7 @@ def Foward_active(sensor1,sensor2,sensor3,SpeedStart,SpeedEnd,timechange,Target)
              motorunit.analogWrite(6,0)
              motorunit.analogWrite(10,0)
              motorunit.analogWrite(4,0)
-             motorunit.analogWrite(3,0)ี
+             motorunit.analogWrite(3,0)
              motorunit.analogWrite(9,SpeedEnd)
              motorunit.analogWrite(11,SpeedEnd)
              motorunit.analogWrite(2,SpeedEnd)
